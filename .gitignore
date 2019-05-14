@@ -17,4 +17,6 @@ package-lock.json
 *.*~
 .Rproj.user
 .Rhistory
+.RData
+.project
 Localized.txt
