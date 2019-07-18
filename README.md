@@ -5,7 +5,7 @@ You will need a file called "Localized.txt" in the same folder containing 4 item
 3) SQL Server - the name of the database you are connecting to
 4) Domain - name of the windows domain the SQL Server is on
 
-eg.
+eg.\
 MySQLServer\
 MyInstance\
 MyDatabase\
