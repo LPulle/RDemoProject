@@ -6,9 +6,9 @@ You will need a file called "Localized.txt" in the same folder containing 4 item
 4) Domain - name of the windows domain the SQL Server is on
 
 eg.
-MySQLServer
-MyInstance
-MyDatabase
+MySQLServer\
+MyInstance\
+MyDatabase\
 Domain
 
 This will be used to populate the objects in main.R before executing the connect script
