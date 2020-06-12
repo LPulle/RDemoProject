@@ -2,10 +2,10 @@
 ## General data wrangling packages
 ## tidyverse
 if(!require(tidyverse)) install.packages("tidyverse"); library(tidyverse)
-## plyr
-if(!require(plyr)) install.packages('dplyr'); library(plyr)
 ## dplyr
 if(!require(dplyr)) install.packages('dplyr'); library(dplyr)
+## plyr
+if(!require(plyr)) install.packages('plyr'); library(plyr)
 ## readr
 if(!require(readr)) install.packages('readr'); library(readr)
 ## reshape2
